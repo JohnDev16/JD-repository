@@ -1,5 +1,3 @@
-# 2ND REPOSITORY
+# 3RD REPOSITORY
 
-this is second example.
-
-This is second line.
+this is a 3rd example.
